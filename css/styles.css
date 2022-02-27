@@ -44,3 +44,9 @@ body {
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+#carouselButton {
+    right: 200px;
+    position: absolute;
+    bottom: 0px;
+}
