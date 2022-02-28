@@ -29,6 +29,7 @@ body {
   z-index: 0; }
 
 .navbar-dark {
+<<<<<<< HEAD
   background-color: #512DA8; }
 
 .tab-content {
@@ -51,3 +52,20 @@ body {
   right: 0px;
   position: absolute;
   bottom: 0px; }
+=======
+    background-color: #512da8;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+#carouselButton {
+    right: 200px;
+    position: absolute;
+    bottom: 0px;
+}
+>>>>>>> 547e5bfcdfc51efb88477e8afdf1f08932105139
